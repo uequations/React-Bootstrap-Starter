@@ -1,1 +1,1 @@
-# React-Bootstrap-Starter
+# React Bootstrap Starter
